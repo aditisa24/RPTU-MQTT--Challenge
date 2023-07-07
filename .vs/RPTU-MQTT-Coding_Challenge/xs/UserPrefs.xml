@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3BE42315-7AA5-5D90-01AC-13FAF9BA0048}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/mqttReceiver.cs">
+    <Files>
+      <File FileName="Assets/mqttReceiver.cs" Line="5" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPTU-MQTT-Coding_Challenge" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="mqttReceiver.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22749775-4705-4d02-963d-71554b56e82e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
